@@ -76,7 +76,7 @@
   + [Building Machine Learning Projects with TensorFlow.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Building%20Machine%20Learning%20Projects%20with%20TensorFlow.pdf)  
   + [Building Machine Learning Systems with Python, 2nd Edition.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Building%20Machine%20Learning%20Systems%20with%20Python%2C%202nd%20Edition.pdf)  
   + [Designing Machine Learning Systems with Python 2016 {PRG}.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Designing%20Machine%20Learning%20Systems%20with%20Python%20%202016%20%7BPRG%7D.pdf)  
-  + [Hands-On Data Science and Python Machine Learning.pdf](h+ [https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Hands-On%20Data%20Science%20and%20Python%20Machine%20Learning.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/30_03_atelierdatamining.pdf)  
+  + [Hands-On Data Science and Python Machine Learning.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Hands-On%20Data%20Science%20and%20Python%20Machine%20Learning.pdf 
 )  
   + [Introduction to Machine Learning with Python.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Large%20Scale%20Machine%20Learning%20with%20Spark.pdf)  
   + [Large Scale Machine Learning with Spark.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Large%20Scale%20Machine%20Learning%20with%20Spark.pdf)  
@@ -97,7 +97,7 @@
   + [Python Real World Machine Learning - Prateek Joshi.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Python%20Real%20World%20Machine%20Learning%20-%20Prateek%20Joshi.pdf) 
   + [TensorFlow Machine Learning Cookbook.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/TensorFlow%20Machine%20Learning%20Cookbook.pdf) 
   + [python-machine-learning-2nd.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/python-machine-learning-2nd.pdf) 
- + [scikit-learn Cookbook.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/scikit-learn%20Cookbook.pdf) 
+  + [scikit-learn Cookbook.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/scikit-learn%20Cookbook.pdf) 
  
 * [NLP Books](https://github.com/thezili-changwook/StudyBook/tree/master/NLPBooks)     
 
