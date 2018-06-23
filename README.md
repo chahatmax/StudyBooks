@@ -53,7 +53,18 @@
       - [part-2-chapter-10.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B15%5Dpart-2-chapter-10.pdf)        
       - [part-2-chapter-11.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B16%5Dpart-2-chapter-11.pdf)        
       - [part-2-chapter-12.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B17%5Dpart-2-chapter-12.pdf)  
-      
+      - [part-3-deep-learning-research.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B18%5Dpart-3-deep-learning-research.pdf) 
+      - [part-3-chapter-13.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B19%5Dpart-3-chapter-13.pdf) 
+      - [part-3-chapter-14.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B20%5Dpart-3-chapter-14.pdf) 
+      - [part-3-chapter-15.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B21%5Dpart-3-chapter-15.pdf) 
+      - [part-3-chapter-16.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B22%5Dpart-3-chapter-16.pdf) 
+      - [part-3-chapter-17.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B23%5Dpart-3-chapter-17.pdf) 
+      - [part-3-chapter-18.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B24%5Dpart-3-chapter-18.pdf) 
+      - [part-3-chapter-19.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B25%5Dpart-3-chapter-19.pdf) 
+      - [part-3-chapter-20.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B26%5Dpart-3-chapter-20.pdf) 
+      - [bibliography.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B27%5Dbibliography.pdf) 
+      - [index.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B28%5Dindex.pdf) 
+       
 * [NLP Books](https://github.com/thezili-changwook/StudyBook/tree/master/NLPBooks)     
 
 * [Python Books](https://github.com/thezili-changwook/StudyBook/tree/master/PythonBooks)   
