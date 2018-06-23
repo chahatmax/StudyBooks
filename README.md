@@ -144,7 +144,7 @@
     - [Lecture 2: Markov Decision Processes](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/MDP.pdf)      
     - [Lecture 3: Planning by Dynamic Programming](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/DP.pdf)  
     - [Lecture 4: Model-Free Prediction](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/MC-TD.pdf)      
-    - [Lecture 5: Model-Free Control](hhttps://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/control.pdf)      
+    - [Lecture 5: Model-Free Control](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/control.pdf)      
     - [Lecture 6: Value Function Approximation](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/FA.pdf)      
     - [Lecture 7: Policy Gradient Methods](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/pg.pdf)      
     - [Lecture 8: Integrating Learning and Planning](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/dyna.pdf)      
