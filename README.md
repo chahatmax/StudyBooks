@@ -140,6 +140,18 @@
     - [Dissecting Reinforcement Learning-Part7.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part7.pdf)      
   
   + [UCL Course on RL d.silver](https://github.com/thezili-changwook/StudyBook/tree/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver)
-
+    - [Lecture 1: Introduction to Reinforcement Learning](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/intro_RL.pdf)  
+    - [Lecture 2: Markov Decision Processes](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/MDP.pdf)      
+    - [Lecture 3: Planning by Dynamic Programming](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/DP.pdf)  
+    - [Lecture 4: Model-Free Prediction](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/MC-TD.pdf)      
+    - [Lecture 5: Model-Free Control](hhttps://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/control.pdf)      
+    - [Lecture 6: Value Function Approximation](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/FA.pdf)      
+    - [Lecture 7: Policy Gradient Methods](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/pg.pdf)      
+    - [Lecture 8: Integrating Learning and Planning](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/dyna.pdf)      
+    - [Lecture 9: Exploration and Exploitation](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/XX.pdf)      
+    - [Lecture 10: Case Study: RL in Classic Games](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/games.pdf)  
+    - [Lecture 11: Case Study: Deep RL](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/deep_rl_tutorial.pdf)      
+    - [Video-lectures available here](https://www.youtube.com/watch?v=2pWv7GOvuf0)        
+    
 Author
 ChangWookJun / @thezili-changwook
