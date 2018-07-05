@@ -88,7 +88,7 @@
   + [Mastering Feature Engineering.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Mastering%20Feature%20Engineering.pdf)  
   + [Mastering Machine Learning with scikit-learn, 2nd Edition.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Mastering%20Machine%20Learning%20with%20scikit-learn%2C%202nd%20Edition.pdf)  
   + [Mastering Machine Learning with scikit-learn.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Mastering%20Machine%20Learning%20with%20scikit-learn.pdf)  
-  + [NG_MLY01_10.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/NG_MLY01_10.pdf) 
+  + [NG_MLY01_11.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Ng_MLY01_11.pdf) 
   + [Practical Machine Learning A New Look at Anomaly Detection.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Practical%20Machine%20Learning%20A%20New%20Look%20at%20Anomaly%20Detection.pdf) 
   + [Practical Machine Learning with H2O.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Python%20Data%20Analytics.pdf) 
   + [Python Data Analytics.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/Mastering%20Machine%20Learning%20with%20scikit-learn.pdf) 
