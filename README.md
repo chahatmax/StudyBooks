@@ -153,5 +153,5 @@
     - [Lecture 11: Case Study: Deep RL](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/deep_rl_tutorial.pdf)      
     - [Video-lectures available here](https://www.youtube.com/watch?v=2pWv7GOvuf0)        
     
-Author
-ChangWookJun / @changwookjun
+# Author
+ChangWookJun / @changwookjun (changwookjun@gmail.com)
