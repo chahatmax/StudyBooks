@@ -129,7 +129,7 @@
   
 * [Reinforcement Learning Books](https://github.com/thezili-changwook/StudyBook/tree/master/ReinforcementLearningBooks)  
   + [RLAlgsInMDPs.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/RLAlgsInMDPs.pdf)
-  + [bookdraft2017nov5.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/bookdraft2017nov5.pdf)
+  + [RLbook2018.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/RLbook2018.pdf)
   + [Dissecting Reinforcement Learning](https://github.com/thezili-changwook/StudyBook/tree/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning)    
     - [Dissecting Reinforcement Learning-Part1.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part1.pdf)   
     - [Dissecting Reinforcement Learning-Part2.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part2.pdf) 
