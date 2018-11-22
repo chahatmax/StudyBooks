@@ -108,7 +108,9 @@
   + [Python Text Processing with NLTK 2.0 Cookbook.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/MachineLearningBooks/scikit-learn%20Cookbook.pdf) 
   + [Text Analytics with Python A Practical Real-World Approach to Gaining Actionable Insights from your Data.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/NLPBooks/Text%20Analytics%20with%20Python%20A%20Practical%20Real-World%20Approach%20to%20Gaining%20Actionable%20Insights%20from%20your%20Data.pdf) 
   + [The Text Mining HandBook.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/NLPBooks/The%20Text%20Mining%20HandBook.pdf) 
-  + [eisenstein-nlp-notes.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/NLPBooks/eisenstein-nlp-notes.pdf) 
+  + [eisenstein-nlp-notes.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/NLPBooks/eisenstein-nlp-notes.pdf)
+  + [NLP_DL_Lecture_Note.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/NLP_DL_Lecture_Note.pdf)
+  
   
 * [Python Books](https://github.com/thezili-changwook/StudyBook/tree/master/PythonBooks)   
   + [IPython Interactive Computing and Visualization Cookbook.pdf
