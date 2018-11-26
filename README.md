@@ -1,6 +1,6 @@
 # Study E-Book
 
-목차  
+Contents  
 * [Computer Vision Books](https://github.com/thezili-changwook/StudyBook/tree/master/ComputerVisionBooks)   
   + [Machine Learning for OpenCV.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/ComputerVisionBooks/Machine%20Learning%20for%20OpenCV.pdf)   
   + [Mastering_opencv.pdf](https://github.com/thezili-changwook/StudyBook/blob/master/ComputerVisionBooks/Mastering_opencv.pdf)   
