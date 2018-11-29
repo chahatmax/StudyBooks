@@ -109,8 +109,15 @@ Contents
   + [Text Analytics with Python A Practical Real-World Approach to Gaining Actionable Insights from your Data.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Text%20Analytics%20with%20Python%20A%20Practical%20Real-World%20Approach%20to%20Gaining%20Actionable%20Insights%20from%20your%20Data.pdf) 
   + [The Text Mining HandBook.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/The%20Text%20Mining%20HandBook.pdf) 
   + [eisenstein-nlp-notes.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/eisenstein-nlp-notes.pdf)
-  + [NLP_DL_Lecture_Note.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/NLP_DL_Lecture_Note.pdf)
-  
+  + [oxford-cs-deepnlp-2017](https://github.com/changwookjun/StudyBook/tree/master/NLPBooks/oxford-cs-deepnlp-2017)
+    - [Lecture 1a - Introduction.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/oxford-cs-deepnlp-2017/Lecture%201a%20-%20Introduction.pdf)    
+    - [Dissecting Reinforcement Learning-Part1.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part1.pdf)   
+    - [Dissecting Reinforcement Learning-Part2.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part2.pdf) 
+    - [Dissecting Reinforcement Learning-Part3.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part3.pdf) 
+    - [Dissecting Reinforcement Learning-Part4.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part4.pdf) 
+    - [Dissecting Reinforcement Learning-Part5.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part5.pdf)   
+    - [Dissecting Reinforcement Learning-Part6.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part6.pdf)   
+    - [Dissecting Reinforcement Learning-Part7.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part7.pdf)   
   
 * [Python Books](https://github.com/changwookjun/StudyBook/tree/master/PythonBooks)   
   + [IPython Interactive Computing and Visualization Cookbook.pdf
