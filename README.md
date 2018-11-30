@@ -68,6 +68,7 @@ Contents
       - [part-3-chapter-20.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B26%5Dpart-3-chapter-20.pdf) 
       - [bibliography.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B27%5Dbibliography.pdf) 
       - [index.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/DeepLearning_chapter-wise-pdf/%5B28%5Dindex.pdf) 
+  + [d2l-en.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/d2l-en.pdf) 
 
 * [Machine Learning Books](https://github.com/changwookjun/StudyBook/tree/master/MachineLearningBooks)      
   + [30_03_atelierdatamining.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/30_03_atelierdatamining.pdf)  
