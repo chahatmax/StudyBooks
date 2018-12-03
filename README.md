@@ -99,7 +99,9 @@ Contents
   + [TensorFlow Machine Learning Cookbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/TensorFlow%20Machine%20Learning%20Cookbook.pdf) 
   + [python-machine-learning-2nd.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/python-machine-learning-2nd.pdf) 
   + [scikit-learn Cookbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/scikit-learn%20Cookbook.pdf) 
- 
+  + [Gaussian Processes for Machine Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/RW.pdf) 
+  + [The Elements of Statistical Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/ESLII_print12.pdf) 
+  
 * [NLP Books](https://github.com/changwookjun/StudyBook/tree/master/NLPBooks)     
   + [Applied Text Analysis with Python.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Applied%20Text%20Analysis%20with%20Python.pdf) 
   + [Jacob Perkins-Python 3 Text Processing with NLTK 3.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Jacob%20Perkins-Python%203%20Text%20Processing%20with%20NLTK%203.pdf) 
