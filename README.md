@@ -170,8 +170,8 @@ Contents
     - [Lecture 9: Exploration and Exploitation](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/XX.pdf)      
     - [Lecture 10: Case Study: RL in Classic Games](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/games.pdf)  
     - [Lecture 11: Case Study: Deep RL](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/deep_rl_tutorial.pdf)      
-    - [Video-lectures available here](https://www.youtube.com/watch?v=2pWv7GOvuf0)        
-+ [AnIntroductiontoDeepReinforcementLearning.pdf](https://https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/AnIntroductiontoDeepReinforcementLearning.pdf)  
+    - [Video-lectures available here](https://www.youtube.com/watch?v=2pWv7GOvuf0)          
+  + [AnIntroductiontoDeepReinforcementLearning.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/AnIntroductiontoDeepReinforcementLearning.pdf)  
 
 # Author
 ChangWookJun / @changwookjun (changwookjun@gmail.com)
