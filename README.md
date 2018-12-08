@@ -103,6 +103,7 @@ Contents
   + [scikit-learn Cookbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/scikit-learn%20Cookbook.pdf) 
   + [Gaussian Processes for Machine Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/RW.pdf) 
   + [The Elements of Statistical Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/ESLII_print12.pdf) 
+  + [Hands-On Machine Learning for Algorithmic Trading [eBook].pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Hands-On%20Machine%20Learning%20for%20Algorithmic%20Trading%20%5BeBook%5D.pdf) 
   
 * [NLP Books](https://github.com/changwookjun/StudyBook/tree/master/NLPBooks)     
   + [Applied Text Analysis with Python.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Applied%20Text%20Analysis%20with%20Python.pdf) 
