@@ -106,8 +106,10 @@ Contents
   + [Hands-On Machine Learning for Algorithmic Trading [eBook].pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Hands-On%20Machine%20Learning%20for%20Algorithmic%20Trading%20%5BeBook%5D.pdf) 
 
 * [Math Books](https://github.com/changwookjun/StudyBook/tree/master/MathBooks)     
+  + [MIT18_657F15_LecNote.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/MIT18_657F15_LecNote.pdf) 
   + [Mathematics for Machine Learnin.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20Machine%20Learnin.pdf) 
-
+  + [Mathematics for machine learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20machine%20learning.pdf) 
+  
 * [NLP Books](https://github.com/changwookjun/StudyBook/tree/master/NLPBooks)     
   + [Applied Text Analysis with Python.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Applied%20Text%20Analysis%20with%20Python.pdf) 
   + [Jacob Perkins-Python 3 Text Processing with NLTK 3.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Jacob%20Perkins-Python%203%20Text%20Processing%20with%20NLTK%203.pdf) 
