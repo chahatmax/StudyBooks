@@ -110,6 +110,7 @@ Contents
   + [MIT18_657F15_LecNote.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/MIT18_657F15_LecNote.pdf) 
   + [Mathematics for Machine Learnin.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20Machine%20Learnin.pdf) 
   + [mathandcomp.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/mathandcomp.pdf) 
+  + [Mathematics for machine learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20machine%20learning.pdf) 
   
 * [NLP Books](https://github.com/changwookjun/StudyBook/tree/master/NLPBooks)     
   + [Applied Text Analysis with Python.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Applied%20Text%20Analysis%20with%20Python.pdf) 
