@@ -104,7 +104,8 @@ Contents
   + [Gaussian Processes for Machine Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/RW.pdf) 
   + [The Elements of Statistical Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/ESLII_print12.pdf) 
   + [Hands-On Machine Learning for Algorithmic Trading [eBook].pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Hands-On%20Machine%20Learning%20for%20Algorithmic%20Trading%20%5BeBook%5D.pdf) 
-
+  + [Foundations of Data Science.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Foundations%20of%20Data%20Science.pdf) 
+  
 * [Math Books](https://github.com/changwookjun/StudyBook/tree/master/MathBooks)     
   + [MIT18_657F15_LecNote.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/MIT18_657F15_LecNote.pdf) 
   + [Mathematics for Machine Learnin.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20Machine%20Learnin.pdf) 
