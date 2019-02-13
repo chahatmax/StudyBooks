@@ -112,6 +112,7 @@ Contents
   + [mathandcomp.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/mathandcomp.pdf) 
   + [Mathematics for machine learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20machine%20learning.pdf) 
   + [Introduction to Applied Linear Algebra.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Introduction%20to%20Applied%20Linear%20Algebra.pdf) 
+  + [matrixcookbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/matrixcookbook.pdf) 
   
 * [NLP Books](https://github.com/changwookjun/StudyBook/tree/master/NLPBooks)     
   + [Applied Text Analysis with Python.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Applied%20Text%20Analysis%20with%20Python.pdf) 
