@@ -71,7 +71,8 @@ Contents
   + [d2l-en.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/d2l-en.pdf) 
   + [Hands On Transfer Learning with Python_eBook.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Hands%20On%20Transfer%20Learning%20with%20Python_eBook.pdf) 
   + [ADVANCED_DEEP_LEARNING_WITH_KERAS.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/ADVANCED_DEEP_LEARNING_WITH_KERAS.pdf) 
-    
+  + [Dive into DeepLearning.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Dive_into_Deep_Learning.pdf)   
+
 * [Machine Learning Books](https://github.com/changwookjun/StudyBook/tree/master/MachineLearningBooks)      
   + [30_03_atelierdatamining.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/30_03_atelierdatamining.pdf)  
   + [Advanced-Machine-Learning-with-Python.azw3.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Advanced-Machine-Learning-with-Python.azw3.pdf)  
