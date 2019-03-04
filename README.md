@@ -72,10 +72,11 @@ Contents
   + [Hands On Transfer Learning with Python_eBook.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Hands%20On%20Transfer%20Learning%20with%20Python_eBook.pdf) 
   + [ADVANCED_DEEP_LEARNING_WITH_KERAS.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/ADVANCED_DEEP_LEARNING_WITH_KERAS.pdf) 
   + [Dive into DeepLearning.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Dive_into_Deep_Learning.pdf)   
+  + [ee559 Deep learning](https://github.com/changwookjun/StudyBook/tree/master/DeepLearningBooks/ee559-Deeplearning)     
 
 * [Machine Learning Books](https://github.com/changwookjun/StudyBook/tree/master/MachineLearningBooks)      
   + [30_03_atelierdatamining.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/30_03_atelierdatamining.pdf)  
-  + [Advanced-Machine-Learning-with-Python.azw3.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Advanced-Machine-Learning-with-Python.azw3.pdf)  
+  + [Advanced-Machine-Learning-with-Python.azw3.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Advanced-Machine-Learning-with-Python.azw3.pdf) 
   + [Bishop - Pattern Recognition And Machine Learning - Springer 2006.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)  
   + [Building Machine Learning Projects with TensorFlow.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Building%20Machine%20Learning%20Projects%20with%20TensorFlow.pdf)  
   + [Building Machine Learning Systems with Python, 2nd Edition.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Building%20Machine%20Learning%20Systems%20with%20Python%2C%202nd%20Edition.pdf)  
