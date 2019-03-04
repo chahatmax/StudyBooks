@@ -1,4 +1,4 @@
-# Study E-Book(ComputerVision DeepLearning MachineLearning NLP Python ReinforcementLearning)
+# Study E-Book(ComputerVision DeepLearning MachineLearning Math NLP Python ReinforcementLearning)
 
 Contents  
 * [Computer Vision Books](https://github.com/changwookjun/StudyBook/tree/master/ComputerVisionBooks)   
