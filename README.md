@@ -108,6 +108,7 @@ Contents
   + [Hands-On Machine Learning for Algorithmic Trading [eBook].pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Hands-On%20Machine%20Learning%20for%20Algorithmic%20Trading%20%5BeBook%5D.pdf) 
   + [Foundations of Data Science.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Foundations%20of%20Data%20Science.pdf) 
   + [cs229-cheatsheet](https://github.com/changwookjun/StudyBook/tree/master/MachineLearningBooks/cs229-cheatsheet) 
+  + [Automatic_Machine_Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Automatic_Machine_Learning.pdf) 
   
 * [Math Books](https://github.com/changwookjun/StudyBook/tree/master/MathBooks)     
   + [MIT18_657F15_LecNote.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/MIT18_657F15_LecNote.pdf) 
