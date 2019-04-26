@@ -109,6 +109,7 @@ Contents
   + [Foundations of Data Science.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Foundations%20of%20Data%20Science.pdf) 
   + [cs229-cheatsheet](https://github.com/changwookjun/StudyBook/tree/master/MachineLearningBooks/cs229-cheatsheet) 
   + [Automatic_Machine_Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Automatic_Machine_Learning.pdf) 
+  + [DataScienceHandbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/DataScienceHandbook.pdf) 
   
 * [Math Books](https://github.com/changwookjun/StudyBook/tree/master/MathBooks)     
   + [MIT18_657F15_LecNote.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/MIT18_657F15_LecNote.pdf) 
