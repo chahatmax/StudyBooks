@@ -122,6 +122,8 @@ Contents
   + [matrixcookbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/matrixcookbook.pdf) 
   + [mml-book](https://github.com/changwookjun/StudyBook/tree/master/MathBooks/mml-book)   
   + [Mathematics for machine Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20Machine%20Learning.pdf)  
+  + [MATHEMATICS FOR MACHINE LEARNING.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/mml-book.pdf)  
+
 
 * [NLP Books](https://github.com/changwookjun/StudyBook/tree/master/NLPBooks)     
   + [Applied Text Analysis with Python.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Applied%20Text%20Analysis%20with%20Python.pdf) 
