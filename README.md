@@ -74,7 +74,8 @@ Contents
   + [Dive into DeepLearning.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Dive_into_Deep_Learning.pdf)   
   + [ee559 Deep learning](https://github.com/changwookjun/StudyBook/tree/master/DeepLearningBooks/ee559-Deeplearning)     
   + [Hands-on-Machine-Learning-with-Scikit-2E.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Hands-on-Machine-Learning-with-Scikit-2E.pdf)  
-  + [deeplearning_2019_spring.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/deeplearning_2019_spring.pdf)     + [Deep-Learning-with-PyTorch.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Deep-Learning-with-PyTorch.pdf)  
+  + [deeplearning_2019_spring.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/deeplearning_2019_spring.pdf)    
+  + [Deep-Learning-with-PyTorch.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Deep-Learning-with-PyTorch.pdf)  
 
 * [Machine Learning Books](https://github.com/changwookjun/StudyBook/tree/master/MachineLearningBooks)      
   + [30_03_atelierdatamining.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/30_03_atelierdatamining.pdf)  
