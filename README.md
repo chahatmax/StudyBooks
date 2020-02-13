@@ -181,7 +181,8 @@ Contents
     - [Dissecting Reinforcement Learning-Part4.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part4.pdf) 
     - [Dissecting Reinforcement Learning-Part5.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part5.pdf)   
     - [Dissecting Reinforcement Learning-Part6.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part6.pdf)   
-    - [Dissecting Reinforcement Learning-Part7.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part7.pdf)      
+    - [Dissecting Reinforcement Learning-Part7.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/Dissecting%20Reinforcement%20Learning/Dissecting%20Reinforcement%20Learning-Part7.pdf)  
+  + [AI_CRASH_COURSE.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/AI_CRASH_COURSE.pdf)   
   
   + [UCL Course on RL d.silver](https://github.com/changwookjun/StudyBook/tree/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver)
     - [Lecture 1: Introduction to Reinforcement Learning](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/UCL%20Course%20on%20RL%20d.silver/intro_RL.pdf)  
