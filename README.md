@@ -153,7 +153,9 @@ Contents
     - [Lecture 11 - Question Answering.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/oxford-cs-deepnlp-2017/Lecture%2011%20-%20Question%20Answering.pdf)   
     - [Lecture 12- Memory Lecture.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/oxford-cs-deepnlp-2017/Lecture%2012-%20Memory%20Lecture.pdf)    
     - [Lecture 13 - Linguistics.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/oxford-cs-deepnlp-2017/Lecture%2013%20-%20Linguistics.pdf)      
-    
+  + [Speech and Language Processing.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Speech_and_Language_Processing.pdf) 
+
+
 * [Python Books](https://github.com/changwookjun/StudyBook/tree/master/PythonBooks)   
   + [IPython Interactive Computing and Visualization Cookbook.pdf
 ](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/IPython%20Interactive%20Computing%20and%20Visualization%20Cookbook.pdf)
